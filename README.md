@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @mostakim-h
-- 👀 I’m Learning Web Programming
-- 🌱 I’m currently learning Full Stack Web Development
+const README = [
+['- 👋 Hi, I’m Mostakim (UserName: @mostakim-h)'],
+['- 👀 I’m Learning Web Programming'],
+['- 🌱 I’m currently learning Full Stack Web Development']
+]
 
 <!---
 mostakim-h/mostakim-h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
