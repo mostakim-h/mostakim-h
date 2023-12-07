@@ -2,7 +2,7 @@ const README = [
 
     ['- 👋 Hi, I’m Mostakim (UserName: @mostakim-h)'],
     ['- 👀 I’m Learning Web Programming'],
-    ['- 🌱 I’m currently learning Full Stack Web Development']
+    ['- 🌱 I’m currently learning MERN Stack Web Development']
   
 ]
 
