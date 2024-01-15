@@ -1,7 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Burned&duration=3000&pause=1000&color=00F750&background=FFFFFF00&random=false&width=435&lines=Hello%2C+Nice+to+meet+you)](https://git.io/typing-svg)
+🤝 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Burned&duration=3000&pause=1000&color=00F71E&background=FFFFFF00&random=false&width=435&lines=Hi%2C+I%E2%80%99m+Mostakim, )](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Burned&duration=3000&pause=1000&color=F70076&background=FFFFFF00&random=false&width=435&lines=Nice+to+Meet+you)](https://git.io/typing-svg)
 
-- 👋 Hi, I’m Mostakim]
-- 👀
 - 🌱 Full-Stack Developer (MERN)
 
 <!---
