@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=800&duration=3000&pause=2000&color=158d4&random=false&width=435&lines=Full-Stack+Web+Developer+(MERN))
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+bold&weight=800&duration=3000&pause=2000&color=158d4&random=false&width=435&lines=Full-Stack+Web+Developer+(MERN))
 
 
 
