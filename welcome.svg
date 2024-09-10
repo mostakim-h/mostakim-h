@@ -1,7 +1,7 @@
 <svg width="823" height="148" class="js-calendar-graph-svg" xmlns="http://www.w3.org/2000/svg">
     <style>
     :root {
-        --c0: rgba(34, 0, 255, 0.06);
+        --c0: rgba(255, 255, 255, 0);
         --c1: #bb00ff;
         --c2: #00ff22;
         --c3: #00ffe1;
