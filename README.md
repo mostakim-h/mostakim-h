@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  ## Get in touch :coffee:
+  <img src="## Get in touch :coffee:" />
 </p>
 <!--- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mostakim-h&show_icons=true&theme=gotham" alt="Mostakim" /> --->
 <!---
