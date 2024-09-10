@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 100" width="700" height="100">
+  <style>
+    .dot {
+      fill: #4CAF50;
+      animation: changeColor 2s infinite alternate;
+    }
+
+    @keyframes changeColor {
+      0% { fill: #4CAF50; }
+      25% { fill: #FF5733; }
+      50% { fill: #33FFBD; }
+      75% { fill: #FF33A6; }
+      100% { fill: #3385FF; }
+    }
+  </style>
+  
+  <!-- W -->
+  <circle cx="30" cy="50" r="10" class="dot"/>
+  <circle cx="50" cy="70" r="10" class="dot"/>
+  <circle cx="70" cy="50" r="10" class="dot"/>
+  <circle cx="90" cy="70" r="10" class="dot"/>
+  <circle cx="110" cy="50" r="10" class="dot"/>
+  
+  <!-- E -->
+  <circle cx="160" cy="50" r="10" class="dot"/>
+  <circle cx="180" cy="50" r="10" class="dot"/>
+  <circle cx="200" cy="50" r="10" class="dot"/>
+  <circle cx="160" cy="30" r="10" class="dot"/>
+  <circle cx="160" cy="70" r="10" class="dot"/>
+  
+  <!-- L -->
+  <circle cx="250" cy="30" r="10" class="dot"/>
+  <circle cx="250" cy="50" r="10" class="dot"/>
+  <circle cx="250" cy="70" r="10" class="dot"/>
+  <circle cx="270" cy="70" r="10" class="dot"/>
+  
+  <!-- C -->
+  <circle cx="330" cy="30" r="10" class="dot"/>
+  <circle cx="330" cy="50" r="10" class="dot"/>
+  <circle cx="330" cy="70" r="10" class="dot"/>
+  <circle cx="350" cy="30" r="10" class="dot"/>
+  <circle cx="350" cy="70" r="10" class="dot"/>
+  
+  <!-- O -->
+  <circle cx="410" cy="30" r="10" class="dot"/>
+  <circle cx="410" cy="50" r="10" class="dot"/>
+  <circle cx="410" cy="70" r="10" class="dot"/>
+  <circle cx="430" cy="30" r="10" class="dot"/>
+  <circle cx="430" cy="70" r="10" class="dot"/>
+  
+  <!-- M -->
+  <circle cx="490" cy="30" r="10" class="dot"/>
+  <circle cx="490" cy="50" r="10" class="dot"/>
+  <circle cx="490" cy="70" r="10" class="dot"/>
+  <circle cx="510" cy="50" r="10" class="dot"/>
+  <circle cx="530" cy="30" r="10" class="dot"/>
+  <circle cx="530" cy="50" r="10" class="dot"/>
+  <circle cx="530" cy="70" r="10" class="dot"/>
+  
+  <!-- E -->
+  <circle cx="590" cy="50" r="10" class="dot"/>
+  <circle cx="610" cy="50" r="10" class="dot"/>
+  <circle cx="630" cy="50" r="10" class="dot"/>
+  <circle cx="590" cy="30" r="10" class="dot"/>
+  <circle cx="590" cy="70" r="10" class="dot"/>
+</svg>
