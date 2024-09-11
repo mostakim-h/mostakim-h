@@ -2,8 +2,9 @@
   <img src="./welcome.svg"/>
 </p>
 
+<p align="center">Hello</p>
 <p align="center">
-  <p>Hello</p>
+  
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+bold&weight=800&duration=3000&pause=2000&color=158d4&random=false&width=435&lines=Full-Stack+Web+Developer+(MERN)"/>
 </p>
 
