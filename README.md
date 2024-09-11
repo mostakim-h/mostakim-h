@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  ## Get in touch :coffee:
+  Get in touch :coffee:
 </p>
 
 
