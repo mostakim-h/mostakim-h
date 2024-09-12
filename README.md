@@ -1,7 +1,11 @@
+<br>
+<br>
 
 <p align="center">
   <img src="./welcome.svg"/>
 </p>
+<br>
+
 
 <p align="center">Hello I'm Mostakim</p>
 <p align="center">
