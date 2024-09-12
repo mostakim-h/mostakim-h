@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./welcome2.svg"/>
+  <img src="./welcome.svg"/>
 </p>
 
 <p align="center">Hello I'm Mostakim</p>
