@@ -2,10 +2,11 @@
 	<defs>
 		<style>
 			:root {
-			--c0: #bb00ff;
-			--c1: #00ff22;
-			--c2: #00ffe1;
-			--c3: #ffee00;
+			--c0: #9be9a8;
+        --c1: #40c463;
+        --c2: #30a14e;
+        --c3: #216e39;
+
 			}
 			
 			@-webkit-keyframes animate-svg-fill-1 {
