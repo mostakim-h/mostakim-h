@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=+Nice+to+meet+you!;I'm+Mostakim&font=Teko&center=true&height=120&color=58a6ff&vCenter=true&size=30%22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=+Nice+to+meet+you!;I'm+Mostakim&font=Teko&center=true&height=120&color=00CD27FF&vCenter=true&size=30%22">
 </p>
 
 <p align="center"> 
