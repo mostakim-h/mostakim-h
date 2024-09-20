@@ -4,12 +4,10 @@
 <p align="center">
   <img src="./welcome.svg"/>
 </p>
-<br>
 
 
-<p align="center">Hello I'm Mostakim</p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+bold&weight=800&duration=3000&pause=2000&color=158d4&random=false&width=340&lines=Full-Stack+Web+Developer+(MERN)"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=+Nice+to+meet+you!;I'm+Mostakim&font=Teko&center=true&height=120&color=58a6ff&vCenter=true&size=30%22">
 </p>
 
 <p align="center"> 
@@ -19,7 +17,6 @@
 <p align="center">
   Get in touch :coffee:
 </p>
-
 
 <div align="center">
   <picture>
