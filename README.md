@@ -25,12 +25,6 @@
     <img alt="github-snake" src="https://github.com/mostakim-h/mostakim-h/blob/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-<br>
-<br>
-
-Thank you
-
 <!--- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mostakim-h&show_icons=true&theme=gotham" alt="Mostakim" /> --->
 <!---
 mostakim-h/mostakim-h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
